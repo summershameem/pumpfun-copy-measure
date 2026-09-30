@@ -1,0 +1,2 @@
+# Put leader public addresses here, one per line. See wallets.example.txt.
+# No private keys or seed phrases are used or accepted anywhere in this program.

@@ -1,0 +1,13 @@
+{
+  "name": "solana-copy-measure",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Read-only, paper-only Pump leader measurement for Node.js 24",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "start": "node --env-file=.env bot.js",
+    "score": "node score.js",
+    "test": "node --test"
+  }
+}
